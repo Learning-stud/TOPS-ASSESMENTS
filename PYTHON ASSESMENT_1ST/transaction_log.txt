@@ -1,0 +1,4 @@
+Added customer jay with account number 1st
+Deposited $5000.0
+Deposited $5000.0
+Withdrew $2000.0

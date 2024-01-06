@@ -2,7 +2,7 @@ import { useState } from "react";
 
 const Accordion = () => {
   // Defined state to manage accordion visibility
-  const [isOpen, setIsOpen] = useState(Array(4).fill(false)); 
+  const [isOpen, setIsOpen] = useState(Array().fill(false)); 
 
   //  Toggling visibility on click of title
   const toggleAccordion = (index) => {
